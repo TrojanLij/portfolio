@@ -5,3 +5,7 @@
     --quaternary-color: #8A716A;
     --quinary-color: #DBDBDB;
 }
+
+hr{
+    border-color: var(--secondary-color);
+}
