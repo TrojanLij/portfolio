@@ -9,3 +9,7 @@
 hr{
     border-color: var(--secondary-color);
 }
+
+footer{
+    color: var(--teritary-color);
+}
